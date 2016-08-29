@@ -6,5 +6,5 @@ to pixels.
 
 
 
-![ScreenShot](https://github.com/bhaumikmistry/Word-Clock/blob/master/wordClock.jpg)
+![Alt text](https://github.com/bhaumikmistry/Word-Clock/blob/master/wordClock.jpg "ScreenShot")
 
